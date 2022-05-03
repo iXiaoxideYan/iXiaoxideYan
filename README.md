@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yan19960220
 - 👀 I’m interested in machine learning techs, especially in CV and TSC or Sequential analysis.
 - 🌱 I’m currently doing an internship in LIPADE at Universite de Paris.
-- 💞️ I’m looking to collaborate on the data mining
+- 💞️ I’m looking for the collaboration in the machine learning with graph.
 - 📫 How to reach me : ocean.yan.zhang@gmail.com
 
 <!---
