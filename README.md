@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yan19960220
+- 👋 Hi, I’m Yan
 - 👀 I’m interested in machine learning techs, especially in CV and TSC or Sequential analysis.
 - 🌱 I’m currently doing my research for my Phd Thesis in TU Berlin in time series prediction. 
 - 💞️ I’m looking for the collaboration in the machine learning with graph, sequencial data or vision.
